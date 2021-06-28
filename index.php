@@ -1,4 +1,4 @@
 <?php
-echo "Hello From Sites Folder!";
+echo "Hello From Kok Wai!";
 phpinfo();
 ?> 
